@@ -9,6 +9,6 @@ function isMinnesotaZip(code) {
 
 console.log(isMinnesotaZip(55403))
 console.log(isMinnesotaZip(55001))
-console.log(isMinnesotaZip(56763))
+console.log(isMinnesotaZip('56763'))
 console.log(isMinnesotaZip(9999999))
 console.log(isMinnesotaZip(-1))

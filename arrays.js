@@ -8,7 +8,10 @@ animals[3] = 'giraffe'
 console.log(animals)
 console.log([5])
 
+// add to the end of the array
 animals.push('elephant')
+
+// add to the beginning of the array
 animals.unshift('deer')
 
 let firstAnimal = animals.shift()
